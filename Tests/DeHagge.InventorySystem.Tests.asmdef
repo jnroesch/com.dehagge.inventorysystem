@@ -1,0 +1,18 @@
+{
+    "name": "DeHagge.InventorySystem.Tests",
+    "references": [
+        "GUID:ffa78a5e5e15e3640aa9576aaba0d640",
+        "GUID:82d0660703755174bada232d0307fdd6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

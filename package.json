@@ -1,0 +1,13 @@
+{
+  "name": "com.dehagge.inventorysystem",
+  "version": "0.1.0",
+  "displayName": "Inventory System",
+  "description": "Package for inventory systems and item management",
+  "unity": "2019.4",
+  "author": {
+    "name": "DeHagge"
+  },
+  "gitDependencies": {
+    "com.dehagge.privatetestframework": "https://github.com/jnroesch/com.dehagge.privatetestframework.git#v0.1.0"
+  }
+}
