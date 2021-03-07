@@ -8,6 +8,7 @@
     "name": "DeHagge"
   },
   "gitDependencies": {
-    "com.dehagge.privatetestframework": "https://github.com/jnroesch/com.dehagge.privatetestframework.git#v0.1.0"
+    "com.dehagge.privatetestframework": "https://github.com/jnroesch/com.dehagge.privatetestframework.git#v0.1.0",
+    "com.svermeulen.extenject": "https://github.com/starikcetin/Extenject.git#9.1.0"
   }
 }
